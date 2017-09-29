@@ -1,0 +1,41 @@
+#map {
+        height: 100%;
+        width: 100%;
+       
+}
+#wrapper{
+    position: relative;
+}
+#infobox{
+    font-family: Verdana;
+    font-size: 13px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    height: 97%;
+    width: 15%;
+    background-color: #f9f9f9;
+    position: absolute; 
+    top: 5px; 
+    left: 82%; 
+    z-index: 99;
+    overflow: hidden;
+}
+#slika{
+    width: 192px;
+    height: 142px;
+}
+
+table{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+a :hover{
+    cursor: pointer;
+    
+}
+table{
+    font-family: Verdana;
+    font-size: 14px;
+}
